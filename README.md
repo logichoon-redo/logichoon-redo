@@ -1,9 +1,5 @@
 # LEE CHI HOON
 
-<h3 align="center"><b> ⚡️gogo!!⚡️
-
-### <h3 align="center"><b>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlclgns1526)](https://solved.ac/dlclgns1526/)
-</br>
 
 ### <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
