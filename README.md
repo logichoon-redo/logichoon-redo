@@ -1,5 +1,8 @@
 # LEE CHI HOON
 
+#### DAEJEON UNIVERSITY.
+- Computer Science and Engineering
+- 2022.03 - 2024.02 (Expected Graduation)
 
 ### <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
