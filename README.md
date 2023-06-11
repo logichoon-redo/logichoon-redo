@@ -1,4 +1,4 @@
-# LEE CHI HOON
+# LEE CHIHOON
 
 #### DAEJEON UNIVERSITY.
 - Dept. of Computer Engineering
