@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=B7178C&logoColor=white"/></a> &nbsp
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogichoon-redo&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogichoon-redo&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **logicHoon-bit/logicHoon-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
