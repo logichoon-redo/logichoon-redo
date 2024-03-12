@@ -4,6 +4,8 @@
 - Dept. of Computer Engineering
 - 2022.03 - 2024.02 (Expected Graduation)
 
+<h3 align="center"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+
 ### <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
