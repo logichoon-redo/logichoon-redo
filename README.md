@@ -13,7 +13,7 @@
 <img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/> &nbsp
 <img src="https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=B7178C&logoColor=white"/></a> &nbsp
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flogichoon-redo&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)      [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlclgns1526)](https://solved.ac/dlclgns1526)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlclgns1526)](https://solved.ac/dlclgns1526)
 
 <!--
 **logicHoon-bit/logicHoon-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
