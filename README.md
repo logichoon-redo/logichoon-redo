@@ -2,7 +2,13 @@
 
 #### DAEJEON UNIVERSITY.
 - Dept. of Computer Engineering
-- 2022.03 - 2024.02 (Expected Graduation)
+- 2022.03 - 2025.02
+
+#### EST Camp iOS 2기
+- 2025.04 - 2025.09
+- [먹고쓰고](https://github.com/leekangho0/EatStoreTrack)
+- [떠나Go](https://github.com/iOS-EST-2nd-LeaveGo/LeaveGo/tree/main?tab=readme-ov-file)
+- [Meditory](https://github.com/est-ios-3nd-team4/Meditory)
 
 <h3 align="center"><a href="https://medium.com/@dlclgns152615"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
@@ -14,18 +20,3 @@
 <img src="https://img.shields.io/badge/reactivex-B7178C?style=for-the-badge&logo=B7178C&logoColor=white"/></a> &nbsp
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlclgns1526)](https://solved.ac/dlclgns1526)
-
-<!--
-**logicHoon-bit/logicHoon-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
