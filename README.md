@@ -1,14 +1,15 @@
 # LEE CHIHOON              
 
-#### DAEJEON UNIVERSITY.
-- Dept. of Computer Engineering
-- 2022.03 - 2025.02
-
 #### EST Camp iOS 2기
 - 2025.04 - 2025.09
 - [먹고쓰고](https://github.com/leekangho0/EatStoreTrack)
 - [떠나Go](https://github.com/iOS-EST-2nd-LeaveGo/LeaveGo/tree/main?tab=readme-ov-file)
 - [Meditory](https://github.com/est-ios-3nd-team4/Meditory)
+
+
+#### DAEJEON UNIVERSITY.
+- Dept. of Computer Engineering
+- 2022.03 - 2025.02
 
 <h3 align="center"><a href="https://medium.com/@dlclgns152615"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
