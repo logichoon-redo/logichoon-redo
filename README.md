@@ -2,7 +2,7 @@
 
 #### EST Camp iOS 2기
 - 2025.04 - 2025.09
-- [먹고쓰고](https://github.com/leekangho0/EatStoreTrack)
+- [E.S.T](https://github.com/leekangho0/EatStoreTrack)
 - [떠나Go](https://github.com/iOS-EST-2nd-LeaveGo/LeaveGo/tree/main?tab=readme-ov-file)
 - [Meditory](https://github.com/est-ios-3nd-team4/Meditory)
 
