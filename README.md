@@ -1,5 +1,10 @@
 # LEE CHIHOON              
 
+#### Apple Developer Academy @POSTECH 5기
+
+- iOS Developer
+- 2026.03 - 2026.12
+
 #### EST Camp iOS 2기
 - 2025.04 - 2025.09
 - [E.S.T](https://github.com/leekangho0/EatStoreTrack)
