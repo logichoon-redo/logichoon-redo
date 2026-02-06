@@ -1,7 +1,6 @@
 # LEE CHIHOON              
 
 #### Apple Developer Academy @POSTECH 5기
-
 - iOS Developer
 - 2026.03 - 2026.12
 
@@ -16,7 +15,6 @@
 - Dept. of Computer Engineering
 - 2022.03 - 2025.02
 
-<h3 align="center"><a href="https://medium.com/@dlclgns152615"><img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 ### <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
