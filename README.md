@@ -1,7 +1,7 @@
 # LEE CHIHOON              
 
 #### WWDC24 Swift Student Challenge Winner
-- [Unheard]([https://github.com/leekangho0/EatStoreTrack](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge))
+- [Unheard](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge)
 - 2026.03
 
 
