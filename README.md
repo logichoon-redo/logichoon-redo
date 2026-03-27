@@ -4,17 +4,12 @@
 - [Unheard](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge)
 - 2026.03
 
-
 #### Apple Developer Academy @POSTECH 5기
 - iOS Developer
 - 2026.03 - 2026.12
 
 #### EST Camp iOS 2기
 - 2025.04 - 2025.09
-- [E.S.T](https://github.com/leekangho0/EatStoreTrack)
-- [떠나Go](https://github.com/iOS-EST-2nd-LeaveGo/LeaveGo/tree/main?tab=readme-ov-file)
-- [Meditory](https://github.com/est-ios-3nd-team4/Meditory)
-
 
 #### DAEJEON UNIVERSITY.
 - Dept. of Computer Engineering
