@@ -1,5 +1,10 @@
 # LEE CHIHOON              
 
+#### WWDC24 Swift Student Challenge Winner
+- [Unheard]([https://github.com/leekangho0/EatStoreTrack](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge))
+- 2026.03
+
+
 #### Apple Developer Academy @POSTECH 5기
 - iOS Developer
 - 2026.03 - 2026.12
