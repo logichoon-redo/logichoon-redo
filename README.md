@@ -1,6 +1,6 @@
 # LEE CHIHOON              
 
-#### WWDC24 Swift Student Challenge Winner
+#### WWDC26 Swift Student Challenge Winner
 - [Unheard](https://github.com/logichoon-redo/WWDC26-Swift-Student-Challenge)
 - 2026.03
 
